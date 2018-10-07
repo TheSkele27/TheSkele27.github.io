@@ -22,27 +22,27 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ###### Header 6
 
-| Commands     | Function          | Usage |
-|:-------------|:------------------|:------|
-| addrole      | good swedish fish | nice  |
-| baguette     | good and plenty   | nice  |
-| ban          | good `oreos`      | hmm   |
-| botinfo      | good `zoute` drop | yumm  |
+| Commands     | Function          |
+|:-------------|:------------------|
+| addrole      | Adds a role to the tagged user|
+| baguette     | French version of the Excuse me wtf meme  |
+| ban          | Bans the tagged member     | 
+| botinfo      | Gives info about the bot| 
 | cat          |      
 | doggo        |
-| embed|
-| eval|
-| file|
-| game|
-| help|
-| id|
-| info|
-| kick|
-| members|
-| mute|
-| nameinvite|
-| noods|
-| ping|
+| embed        |
+| eval         |
+| file         |
+| game         |
+| help         |
+| id           |
+| info         |
+| kick         |
+| members      |
+| mute         |
+| nameinvite   |
+| noods        |
+| ping         |
 | purge|
 | reload|
 | report|
