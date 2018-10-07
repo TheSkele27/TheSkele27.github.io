@@ -54,9 +54,9 @@ A special thank you to Matthew#0008 and CoalSephos for helping with some command
 | stats| Displays stats about the bot|
 | sysinfo| Displays system information|
 | uptime | Displays the uptime of the bot
-| weeb|
-| whois|
-| wtf|
+| weeb| shut nerd|
+| whois| Displays information about a tagged user|
+| wtf| Posts the Excuse me wtf meme|
 
 
 * * *
