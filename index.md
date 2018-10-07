@@ -4,12 +4,10 @@ layout: default
 
 **Default Prefix:** ```??```
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Subeam uses the Discord.JS module.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+A special thank you to Matthew#0008 and CoalSephos for helping with some commands.
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
