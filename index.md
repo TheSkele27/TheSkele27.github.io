@@ -12,49 +12,54 @@ A special thank you to Matthew#0008 and CoalSephos for helping with some command
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Features
 
-> This is a blockquote following a header.
+> Moderation Commands
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+> Fun Commands
+>
+> Report System
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Commands     | Function          | Usage |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| addrole      | good swedish fish | nice  |
+| baguette     | good and plenty   | nice  |
+| ban          | good `oreos`      | hmm   |
+| botinfo      | good `zoute` drop | yumm  |
+| cat          |      
+| doggo
+| embed
+| eval
+| file
+| game
+| help
+| id
+| info
+| kick
+| members
+| mute
+| nameinvite
+| noods
+| ping
+| purge
+| reload
+| report
+| roleinfo
+| say
+| serverinfo
+| serverlist
+| shiba
+| shop
+| slap
+| slowmode
+| stats
+| sysinfo
+| uptime 
+| weeb
+| whois
+| wtf
 
 ### There's a horizontal rule below this.
 
