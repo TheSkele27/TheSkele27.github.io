@@ -4,13 +4,10 @@ layout: default
 
 **Default Prefix:** ```??```
 
-
+# About
 Subeam uses the Discord.JS module.
 
 A special thank you to Matthew#0008 and CoalSephos for helping with some commands.
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Features
 
@@ -20,7 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > Report System
 
-###### Header 6
+### Commands
 
 | Commands     | Function          |
 |:-------------|:------------------|
