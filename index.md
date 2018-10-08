@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-
 <a href="https://discordapp.com/oauth2/authorize?client_id=481440207963422720&scope=bot&permissions=0">**Invite the bot to your server**</a>
 
-<a href="https://discord.gg/P9M3S54">*Join our support server!**</a>
+<a href="https://discord.gg/P9M3S54">**Join our support server!**</a>
 
 **Default Prefix:** ```??```
 
