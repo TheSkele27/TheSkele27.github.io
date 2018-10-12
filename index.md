@@ -12,6 +12,8 @@ Subeam uses the Discord.JS module.
 
 A special thank you to Matthew#0008 and CoalSephos for helping with some commands.
 
+<iframe src="https://canary.discordapp.com/widget?id=493112905328230401&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 ## Features
 
 > Moderation Commands
