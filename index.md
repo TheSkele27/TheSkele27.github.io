@@ -61,10 +61,6 @@ A special thank you to Matthew#0008 and CoalSephos for helping with some command
 | whois| Displays information about a tagged user|
 | wtf| Posts the Excuse me wtf meme|
 
-
-* * *
-<iframe src="https://canary.discordapp.com/widget?id=493112905328230401&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-
 * * *
 `
 ©TheSkele27 2018
